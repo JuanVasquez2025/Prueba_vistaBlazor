@@ -1,0 +1,36 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Rider, VS Code, etc.)
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ASP.NET Core
+wwwroot/dist/
